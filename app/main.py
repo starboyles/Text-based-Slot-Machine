@@ -10,3 +10,5 @@ def deposit():
         else:
             print("Enter a number")
     return amount
+
+deposit()
